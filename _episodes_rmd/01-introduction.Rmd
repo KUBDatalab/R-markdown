@@ -1,0 +1,40 @@
+---
+title: "Introduction"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME)"
+objectives:
+- "First learning objective. (FIXME)"
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
+---
+
+https://umcarpentries.org/intro-curriculum-r/05-r-markdown/index.html
+
+In R Markdown, you can incorporate ordinary text (ex. experimental methods, analysis and discussion of results) alongside code and figures! (Some people write entire manuscripts in R Markdown.) This is useful for writing reproducible reports and publications, sharing work with collaborators, writing up homework, and keeping a bioinformatics notebook. Because the code is emedded in the document, the tables and figures are reproducible. Anyone can run the code and get the same results. If you find an error or want to add more to the report, you can just re-run the document and you’ll have updated tables and figures! This concept of combining text and code is called “literate programming”. To do this we use R Markdown, which combines Markdown (renders plain text) with R. You can output an html, PDF, or Word document that you can share with others. In fact, this webpage is an example of a rendered R markdown file!
+
+(If you are familiar with Jupyter notebooks in the Python programming environment, R Markdown is R’s equivalent of a Jupyter notebook.)
+
+
+Et hurtigt html output - med et plot og noget.
+
+Der er ting vi ikke gider se på. include = F tilføjes.
+Men måske vi er ude efter echo = F
+
+
+inline kode
+
+tabeller
+
+Pænere formattering af tabeller
+
+Headers 
+
+Lister - nummererede og bulletpoints
+
+kursiv, fed
+
+
+
+{% include links.md %}
