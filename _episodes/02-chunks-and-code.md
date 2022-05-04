@@ -15,4 +15,6 @@ source: Rmd
 ---
 
 
+Noget om chunks og kode i markdown
+
 {% include links.md %}
