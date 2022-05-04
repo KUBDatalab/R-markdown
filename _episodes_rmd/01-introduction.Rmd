@@ -8,6 +8,8 @@ objectives:
 - "First learning objective. (FIXME)"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
+
+source: Rmd
 ---
 
 https://umcarpentries.org/intro-curriculum-r/05-r-markdown/index.html
