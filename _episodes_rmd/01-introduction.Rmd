@@ -16,6 +16,29 @@ In R Markdown, you can incorporate ordinary text (ex. experimental methods, anal
 
 (If you are familiar with Jupyter notebooks in the Python programming environment, R Markdown is R’s equivalent of a Jupyter notebook.)
 
+Lets get started! 
+
+As always we open RStudio, and begin a new project 
+
+SCREENSHOTS/GRABS/GIFs
+
+In order for RStudio to handle the markdown correctly, we choose 
+"file -> New file -> R Markdown"
+![Dialog box for opening a new R Markdown document](../fig/new-R-markdown.png)
+
+We give our document a title, change the Author name if necessary. And choose 
+HTML output.
+
+Word documents can be produced directly, PDFs requires a bit more work, we will get 
+back to that.
+
+We now have a nice document, formatted in a special way.
+
+First we note that title, author, date and output are enclosed between two sets
+of dashes:
+
+![Header of RMarkdown document](../fig/R-markdown-header.png)
+That is the yaml-header. After that we have a code block.
 01 Intro
   yaml-headeren
 
