@@ -16,4 +16,6 @@ source("../bin/chunk-options.R")
 knitr_fig_path("04-")
 ```
 
+Indhold om det mere avancerede.
+
 {% include links.md %}

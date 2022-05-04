@@ -65,6 +65,7 @@ jobs:
         run: |
           source('bin/dependencies.R')
           install_required_packages()
+          install.packages(setdiff(c('remotes', 'rprojroot', 'renv', 'desc', 'rmarkdown', 'knitr'), rownames(installed.packages())))
         shell: Rscript {0}
 
       - name: Query dependencies
