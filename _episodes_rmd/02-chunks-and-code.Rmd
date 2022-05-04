@@ -8,5 +8,7 @@ objectives:
 - "First learning objective. (FIXME)"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
+
+source: Rmd
 ---
 {% include links.md %}
